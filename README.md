@@ -3,6 +3,7 @@
 ## Announcement
 This repo is now being hosted and actively developed over on the Trace Labs page: https://github.com/tracelabs/Trace-Labs-VM-Ras-Pi-Build
 
+### Introduction
 This project ports the Trace Labs OSINT VM over to a Raspberry Pi and was made possible by the work done by Offensive Secuirty. The core of this repo revolves around the build scripts created by them: 
 https://gitlab.com/kalilinux/build-scripts/kali-arm
 
