@@ -24,4 +24,4 @@ The below process has only been tested on Debian flavors of Linux:
 
 
 ### Troubleshooting 
-If the "rpi-64-build.sh" is throwing errors from the beginning, you may need to move the entire folder outside of your home directory before running.
+If the "rpi3-64-build.sh" is throwing errors from the beginning, you may need to move the entire folder outside of your home directory before running.
